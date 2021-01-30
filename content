@@ -1,0 +1,23 @@
+# file content 
+
+Server file built for content user to work upon while
+handling storage content and storage space such being
+gigabyte and kilobyte also terabytes.
+
+# Storage
+Size scale for storage space for folder size of user
+scale of storage usage. 
+
+1000 = kilobytes = 1 MB
+1000 = Megabytes = 1 GB
+1000 = gigabytes = 1 TB
+
+# Storage space 
+
+names and list of users data size bytes are built 
+for using space.
+
+Kilobytes = KB
+Megabytes = MB 
+Gigabytes = GB
+Terabytes = TB
